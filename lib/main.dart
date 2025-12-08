@@ -60,7 +60,6 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return MaterialApp.router(
       routerConfig: _router,
       title: 'Supabase Based Chat Application',
